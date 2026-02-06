@@ -1,0 +1,4 @@
+streamlit
+openai  # For LLM integration
+pandas  # Example dependency
+requests # For making API calls
