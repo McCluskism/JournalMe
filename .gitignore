@@ -1,0 +1,16 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+ENV/*
+*.env
+
+# Project-specific
+.DS_Store
+*.log
+.idea/
+.vscode/
